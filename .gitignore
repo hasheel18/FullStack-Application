@@ -1,0 +1,22 @@
+# --- Node/React frontend ignores ---
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+frontend/npm-debug.log*
+
+# --- Java backend ignores (Maven or Gradle) ---
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/.env
+backend/.DS_Store
+
+# --- Common ignores ---
+*.iml
+*.log
+.DS_Store
+.vscode/
+.idea/
