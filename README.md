@@ -1,31 +1,28 @@
-A complete full-stack web application with a React frontend and Java (Spring Boot) backend.
-It allows you to perform create, read, update, and delete (CRUD) operations on user data.
+# Full Stack CRUD Application 🚀
 
-🚀 Features
+A full-stack CRUD web application built with **Spring Boot**, **React**, and **MySQL**.  
+This project demonstrates how to create, read, update, and delete user records through a REST API and a responsive frontend.
 
-User-friendly React frontend
-Java/Spring Boot REST API backend
-Full CRUD (Create, Read, Update, Delete) capability
-Responsive design using Bootstrap
-Easy integration and modular folder structure
+## ✨ Features
+- Create new users
+- View all users
+- Update user details
+- Delete users
+- REST API backend with Spring Boot
+- React frontend with Axios integration
+- MySQL database connectivity
+- Bootstrap-based UI
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+- **Frontend:** React, Axios, Bootstrap
+- **Backend:** Spring Boot, Spring Data JPA, Hibernate
+- **Database:** MySQL
+- **Tools:** Postman, VS Code, IntelliJ IDEA
 
-Frontend: React, Axios, Bootstrap
-Backend: Java, Spring Boot, Spring Data JPA, MySQL
-Other: Postman (for API testing), Git, GitHub
+## 📁 Project Structure
+- `Fullstack-Backend/` - Spring Boot REST API
+- `Fullstack-Frontend/` - React client app
 
-📝 Getting Started 
-
-✌️Prerequisites
-Node.js & npm (for frontend)
-Java 17+ (for backend)
-MySQL or compatible database
-Git, Github
-
-🙏 Acknowledgements
-
-React
-Spring Boot
-Bootstrap
-And all open source contributors!
+## 🙌 Acknowledgements
+This project was built by following a YouTube tutorial by **Code With Arjun**.  
+Special thanks to the creator for the helpful full-stack CRUD walkthrough.
